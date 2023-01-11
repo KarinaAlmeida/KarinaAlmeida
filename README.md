@@ -69,4 +69,4 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-almeida-752473172/)
 [![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/haveumetkarina/)
 
-![Snake animation](https://github.com/KarinaAlmeida/KarinaAlmeida/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/KarinaAlmeida/KarinaAlmeida/blob/output/github-contribution-grid-snake.svg) -->
