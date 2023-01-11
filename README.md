@@ -9,14 +9,15 @@
  <p align="left">✍ I’m currently working on my portfolio</p>
  <p align="left">🕮 I'm currently learning databases and back-end</p>
  <p align="left">😄 Pronouns: She/Her</p>
+ <p align="left"> <br /></p>
  
  ---
  
 ### 📈 My stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarinaAlmeida&show_icons=true&theme=panda" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=panda&hide_border=false&username=KarinaAlmeida" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarinaAlmeida&show_icons=true&theme=panda" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=panda&hide_border=false&username=KarinaAlmeida" height="140" alt="languages graph"  />
 </div>
 
 ---
