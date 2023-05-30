@@ -17,6 +17,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarinaAlmeida&show_icons=true&theme=panda" height="140"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaAlmeida&layout=compact&langs_count=7&theme=panda"/>  
 
  
 </div>
