@@ -8,8 +8,8 @@
 
  <p align="left">✍ I’m currently working on my portfolio</p>
  <p align="left">👩🏻‍💻I'm currently learning databases and back-end</p>
- <p align="left> 😄 Pronouns: She/Her</p>
  <p align="left">🎮📖Curiosity: I love reading and gaming, ask me about it and we can talk for hours! I also talk about books online</p>
+ <p align="left> 😄 Pronouns: She/Her</p>
  <p align="left"> <br /></p>
  
  
